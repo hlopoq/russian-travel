@@ -5,7 +5,7 @@
   display: flex;
   box-sizing: border-box;
   justify-content: space-between;
-  padding: 28px 48px 56px 48px;
+  padding: 28px 48px 0;
   width: 100%;
 }
 
