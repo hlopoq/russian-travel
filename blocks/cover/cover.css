@@ -27,7 +27,6 @@
   .cover {
     max-width: calc(1280px - 48px * 2);
     margin: 0 48px;
-
   }
 }
 
